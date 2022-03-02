@@ -8,5 +8,5 @@ This session will give you an overview of how to start your Microsoft Certificat
 
 ###### Presented:
 
-* [4th March 2022 - Microsoft Data Platform Group, Birmingham](https://www.meetup.com/MicrosoftDataPlatformBirmingham/events/284048947/ "Microsoft Data Platform Group, Birmingham")
+* [3rd March 2022 - Microsoft Data Platform Group, Birmingham](https://www.meetup.com/MicrosoftDataPlatformBirmingham/events/284048947/ "Microsoft Data Platform Group, Birmingham")
   
